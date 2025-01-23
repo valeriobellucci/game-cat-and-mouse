@@ -3,7 +3,7 @@
 """
 Created on Sat May 13 12:30:34 2023
 
-@author: mike.87
+@author: valerio.b
 
 A simple labyrint game
 You are the red cat, catch the blue mouse that is hiding in the maze.
